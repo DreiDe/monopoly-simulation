@@ -1,0 +1,12 @@
+{
+  "name": "monopoly",
+  "version": "1.0.0",
+  "description": "Monopoly Game simulation for a small school project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Kolb",
+  "license": "ISC",
+  "type": "module"
+}
